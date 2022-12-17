@@ -1,3 +1,7 @@
+# enhanced-SLAM       
+Enhancing ORB-SLAM2 to account for dynamic object scenarios. Dynamic object detection and static keypoint extraction module is developed here (https://github.com/srinath2022/static-ORB-extractor)      
+Integration file - 'src/SORBextractor.cc'   
+   
 # ORB-SLAM2 - For Mac
 This fork has been modified to be compatible on Mac systems. With required packages installed via Brew, this works out of the box for me.
 
